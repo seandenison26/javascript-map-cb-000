@@ -1,7 +1,7 @@
 # JavaScript Map
 
 ## Objectives
-
+READ
 1. Implement a `map()` function from scratch
 2. Explain how `map()` differs from `reduce()`
 3. Explain how `map()` builds on `reduce()`
